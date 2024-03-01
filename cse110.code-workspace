@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "cse110",
+			"path": "../OneDrive/Documents/cse110"
+		},
+		{
+			"name": "cse111",
+			"path": "../OneDrive/Documents/cse111"
+		},
+		{
+			"name": "wdd130",
+			"path": "../OneDrive/Documents/wdd130"
+		},
+		{
+			"name": "cse121b",
+			"path": "../OneDrive/Documents/cse121b"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cse121b"
+	}
+}
